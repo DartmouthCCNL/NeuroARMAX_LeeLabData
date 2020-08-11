@@ -1,10 +1,9 @@
-# ARMAXNeuro
-ARMAX Framework for Neural Analysis
+# NeuroARMAX_LeeLabData
+Here, you can find neural data and computer codes required for model fitting and data analyses presented in Spitmaan et al.
 
 This a ARMAX framework plus exponential memory trace components, 
 in order to estimate short, seasonal, and exogenous (reward and choice) memories 
 plus exogenous selctivity of neurons, based on the activity of neurons in any task.
-Refer to Spitmaan et.al. 2019.
 
 ## Initiation and Loading Data
 In order to initiate an instance of the model you need feed it with neural data.
@@ -136,6 +135,4 @@ ARMAXNeuroModel.fit();
 ```
 
 ## Misc.
-You can find a Python 3 version of this toolbox in this link: [ARMAXNeuroPy](https://github.com/Spitmaan/ARMAXNeuroPy)
-
-Mehran Spitmaan, CCNL, Dartmouth College, (c) 2019
+CCNL, Dartmouth College, (c) 2020
